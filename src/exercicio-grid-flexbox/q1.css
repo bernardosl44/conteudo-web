@@ -1,0 +1,18 @@
+html, body{
+    height: 100vh;
+    margin: 0;
+}
+
+#container-central{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#caixa-login{
+    width: 300px;
+    height: 200px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+}
