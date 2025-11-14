@@ -1,0 +1,12 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr; 
+    gap: 20px;                         
+    padding: 20px;                    
+}
+
+.coluna {
+    background-color: #b2d8b2; 
+    padding: 20px; 
+    text-align: center; 
+}

@@ -1,0 +1,16 @@
+.container-pagina {
+    display: flex; 
+    min-height: 100vh; 
+}
+
+.container-pagina aside {
+    width: 250px;   
+    background-color: #ececec;
+    padding: 20px;
+}
+
+.container-pagina main {
+    flex-grow: 1;        
+    background-color: #fff; 
+    padding: 20px;
+}

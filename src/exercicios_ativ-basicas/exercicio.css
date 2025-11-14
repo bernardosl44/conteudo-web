@@ -44,21 +44,21 @@
   border-radius: 50%;
 }
 
-#caixa-destaque {
+#q8 {
   width: 500px;
   height: 50px;
-  border: 2px dashed cyan;
+  border: 10px outset cyan;
 }
 
 .texto-importante {
   font-weight: bold;
 }
 
-#meu-link {
+#q10 {
   text-decoration: none;
   color: blue;
 }
 
-#meu-link:hover {
+#q10:hover {
   color: red;
 }
